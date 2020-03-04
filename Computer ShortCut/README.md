@@ -42,3 +42,9 @@
 
 ## PC 잠그기
 &nbsp; win + L >> 화면을 바로 잠글 수 있다.
+
+## 방금 전 꺼진 앱 복구하기
+&nbsp; ctrl + shift + T >> 방금 꺼버린 창을 바로 열 수 있다.
+&nbsp; ctrl + T >> 새 창을 열 수 있다.
+
+// 출처 : https://www.youtube.com/watch?v=o-Kx_w21WqY
