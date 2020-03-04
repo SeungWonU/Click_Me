@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Computer Shortcut.iml" filepath="$PROJECT_DIR$/Computer Shortcut.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Computer ShortCut.iml" filepath="$PROJECT_DIR$/Computer ShortCut.iml" />
     </modules>
   </component>
 </project>

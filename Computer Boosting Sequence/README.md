@@ -15,4 +15,6 @@
 ### 5.프로세스 시작
 &nbsp; 프로그램이 시작된다.
 
+
 // 노트북 켜지는 과정도 ! & start 1
+ 출처 : https://gomoveyongs.tistory.com/82
