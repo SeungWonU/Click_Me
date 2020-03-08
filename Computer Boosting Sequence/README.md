@@ -18,3 +18,4 @@
 
 // 노트북 켜지는 과정도 ! & start 1
  출처 : https://gomoveyongs.tistory.com/82
+ https://mnworld.co.kr/29
