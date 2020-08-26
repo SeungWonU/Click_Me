@@ -1,3 +1,6 @@
+
+# [My Blog - DEV](https://dev-seungwon.tistory.com/)
+
 # > Thinkings <
 
 ## [Computer Booting Sequence (2020/03/01~ )](https://github.com/SeungWonU/Click_Me/tree/master/Computer%20Boosting%20Sequence)
@@ -6,4 +9,3 @@
 
 ## [Pomodoro Application (2020/07/06 ~)]
 
-## [My Blog - DEV](https://dev-seungwon.tistory.com/)
