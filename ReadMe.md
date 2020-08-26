@@ -1,5 +1,5 @@
 
-# >>My Blog - DEV(https://dev-seungwon.tistory.com/)
+# >>[My Blog - DEV](https://dev-seungwon.tistory.com/)
 
 --------------------------------------------------------------------------------------------
 
