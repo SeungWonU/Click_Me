@@ -16,6 +16,8 @@
 
 ## [Computer ShortCut (2020/03/04 ~)](https://github.com/SeungWonU/Click_Me/tree/master/Computer%20ShortCut)
 
+## [Linux My Shell (~2020/12/24)](https://github.com/SeungWonU/Click_Me/tree/master/shellPractice)
+
 ## [Kotlin Study](https://github.com/SeungWonU/kotlin-study)
 
 ## [Pomodoro Application (2020/07/06 ~)]
